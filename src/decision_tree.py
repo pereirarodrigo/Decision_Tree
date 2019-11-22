@@ -1,7 +1,7 @@
 import pandas as pd
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.tree import export_graphviz
-from sklearn.externals.six import StringIO  # Depreciado, exibirá um alerta
+from sklearn.externals.six import StringIO  # Depreciado, exibirá um alerta | Deprecated, will show an alert
 from sklearn.model_selection import train_test_split
 from sklearn import metrics
 from IPython.display import Image
