@@ -3,6 +3,8 @@ This is a simple Machine Learning project. The goal was to apply a decision tree
 
 The dataset contains data about potential pulsars (highly magnetized rotating neutron stars). The decision tree is then applied and predicts if a particular star is a pulsar or not.
 
+The code is adapted from Avinash Navani's excellent article about decision trees at DataCamp, available at: https://www.datacamp.com/community/tutorials/decision-tree-classification-python. 
+
 The dataset is included in this project, but is otherwise available here: https://www.kaggle.com/pavanraj159/predicting-a-pulsar-star/
 
 You will need the following in order for this to work:
