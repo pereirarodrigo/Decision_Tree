@@ -3,7 +3,9 @@ This is a simple Machine Learning project. The goal was to apply a decision tree
 
 The dataset contains data about potential pulsars (highly magnetized rotating neutron stars). The decision tree is then applied and predicts if a particular star is a pulsar or not.
 
-The dataset is included in this project, so no need to worry about that. However, you WILL need the following in order for this to work:
+The dataset is included in this project, but is otherwise available here: https://www.kaggle.com/pavanraj159/predicting-a-pulsar-star/data#
+
+You will need the following in order for this to work:
 
   - Graphviz: https://www.graphviz.org/
   - Anaconda (optional): https://www.anaconda.com/distribution/
