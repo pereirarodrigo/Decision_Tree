@@ -11,4 +11,6 @@ The dataset is included in this project, so no need to worry about that. However
   
 Although Anaconda is optional, I highly recommend it as it contains a useful suite of libraries for Machine Learning and Data Science. Additionally, it's a lot better than installing all of the libraries by hand.
 
+P.S.: Comments are provided in both Portuguese and English.
+
 
