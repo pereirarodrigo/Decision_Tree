@@ -62,7 +62,7 @@ def main():
     pulsar = pd.read_csv("pulsar_stars.csv")
 
     # Verificando as primeiras linhas do dataset
-    # Verifying the first rows from the dataset
+    # Checking the first rows from the dataset
     print(pulsar.head())
 
     # Nomes das colunas de features
