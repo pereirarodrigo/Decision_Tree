@@ -81,5 +81,8 @@ def main():
     train_decision_tree(X, y, feature_cols)
 
 
+# Definindo a função main() como a primeira função a ser chamada quando o programa for executado
+# Defining the main() function as the first function to be called when the program is launched
 if __name__ == "__main__":
     main()
+
