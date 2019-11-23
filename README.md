@@ -13,7 +13,7 @@ You will need the following in order for this to work:
   - Anaconda (optional): https://www.anaconda.com/distribution/
   - pydotplus
   
-When using Graphviz, Python may fail to find the path to its executables. A solution to this problem is provided in this project, which was directly taken from Sarunas' response in StackOverflow: https://datascience.stackexchange.com/questions/37428/graphviz-not-working-when-imported-inside-pydotplus-graphvizs-executables-not.
+When using Graphviz, Python may fail to find the path to its executables. A solution to this problem is provided in this project, which was directly taken from Sarunas' response in StackExchange: https://datascience.stackexchange.com/questions/37428/graphviz-not-working-when-imported-inside-pydotplus-graphvizs-executables-not.
 
 Although Anaconda is optional, I highly recommend it as it contains a useful suite of libraries for Machine Learning and Data Science. Additionally, it's a lot better than installing all of the libraries by hand.
 
